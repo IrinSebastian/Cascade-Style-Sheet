@@ -1,0 +1,41 @@
+.outerbox{
+    border:solid 3px;
+    border-color: maroon;
+    background: purple;
+    width:500px;
+    height:300px;
+    }
+.box{
+    margin-left: 100px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-top: 40px;
+    }
+.innerbox1{
+            margin: 10px;
+            width:40%;
+            height:30%;
+            float:left;
+            background:lightcoral;
+          }
+.innerbox2{
+            margin: 10px;
+            width:40%;
+            height:30%;
+            float:left;
+            background: lightseagreen;
+          }
+.innerbox3{
+            margin: 10px;
+            width:40%;
+            height:30%;
+            float:left;
+            background: lime;
+          }
+.innerbox4{
+            margin: 10px;
+            width:40%;
+            height:30%;
+            float:left;
+            background: cyan;
+          }
